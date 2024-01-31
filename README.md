@@ -1,4 +1,4 @@
-# BSU CS410 School Management System - Final Project
+# School Management System
 
 ## Description of Implementation:
 The School Management System is an application designed to help the user with various administrative tasks for a school. 
